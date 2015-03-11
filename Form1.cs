@@ -740,7 +740,7 @@ namespace WebSiteAdvantage.KeePass.FireFoxConverter
 
 		private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
-            Process.Start("http://seo-website-designer.com/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=link&utm_campaign=converter-" + KeePassUtilities.Version);
+            Process.Start("https://websiteadvantage.com.au/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=link&utm_campaign=converter-" + KeePassUtilities.Version);
 		}
 
 		private void checkBoxTitle_CheckedChanged(object sender, EventArgs e)
@@ -771,7 +771,7 @@ namespace WebSiteAdvantage.KeePass.FireFoxConverter
 
 		private void buttonHelp_Click(object sender, EventArgs e)
 		{
-            Process.Start("http://seo-website-designer.com/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=help&utm_campaign=converter-" + KeePassUtilities.Version);
+            Process.Start("https://websiteadvantage.com.au/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=help&utm_campaign=converter-" + KeePassUtilities.Version);
 		}
 		private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
@@ -857,7 +857,7 @@ namespace WebSiteAdvantage.KeePass.FireFoxConverter
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Process.Start("http://seo-website-designer.com/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=help&utm_campaign=converterdonate-" + KeePassUtilities.Version);
+            Process.Start("https://websiteadvantage.com.au/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=help&utm_campaign=converterdonate-" + KeePassUtilities.Version);
 
         }
 
